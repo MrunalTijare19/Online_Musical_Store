@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DjangoNew.iml" filepath="$PROJECT_DIR$/.idea/DjangoNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PandasPracs/.idea/PandasPracs.iml" filepath="$PROJECT_DIR$/../PandasPracs/.idea/PandasPracs.iml" />
+      <module fileurl="file://D:/PythonProjects/SecurityWebCam/.idea/SecurityWebCam.iml" filepath="D:/PythonProjects/SecurityWebCam/.idea/SecurityWebCam.iml" />
+    </modules>
+  </component>
+</project>
